@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="spark-core-assembly-0.5.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/spark/core/target/spark-core-assembly-0.5.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/spark/core/target/spark-core-assembly-0.5.1-SNAPSHOT.jar!/" />
+    </SOURCES>
+  </library>
+</component>
